@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: name
+  annotations:
+    github.com/project-slug: liemmtnet/name
+spec:
+  type: other
+  lifecycle: unknown
+  owner: my-group
